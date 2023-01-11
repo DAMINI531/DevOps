@@ -1,2 +1,2 @@
-# GitHub-Practice
+# DevOps-Practice
 hands-on with GitHub
